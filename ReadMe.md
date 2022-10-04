@@ -76,7 +76,7 @@ This is a type of static linear data structure. Each element in array is uniquel
 
 ### Multi Dimensional Array
 
-![3D](/images/3D.png)
+![3D](/images/3d.png)
 
 ## Operations that can be performed on Array
  - Creation
