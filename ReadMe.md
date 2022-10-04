@@ -35,7 +35,8 @@ As the memory is provided at the compile time for static data structures all the
 It is less efficient and easier to code.
 Eg. Array
 
-Diagram of array
+
+![1](/images/1.jpg)
 
 #### Dynamic Data Structure
 Data structures that are of the dynamic size are called dynamic data structures. Memory is allocated at the run time for dynamic data structure and the size of the dynamic data structures varies at the run-time of the code. Also, both the size and the elements stored in the dynamic data structure can be changed at the run time of the code.
@@ -44,14 +45,14 @@ As the memory allocated at the run time for the dynamic data structures makes al
 It is more efficient and difficult to code.
 Eg. Linked List, Stack, Queue
 
-Diagram of linked list
+![2](/images/2.jpg)
 
 ### Non Linear Data Structure
 It is a data structure where elements are not placed in a sequntial or linear manner. In other words, A data elements of the non linear data structure could be connected to more than one elements to reflect a special relationship among them. 
 In non linear data structure, elements can not be traverse in a single run. This structure represents multi-dimensional data structures.  Non-linear data structures have more complex implementation for efficient memory utilization.
 Eg. Tree and Graph
 
-diagram of tree
+![4](/images/4.jpg)
 
 ## Application of Data Structure
 - Operating System
@@ -71,11 +72,11 @@ This is a type of static linear data structure. Each element in array is uniquel
 
 ### One dimensional Array
 
-Diagram 
+![1D](/images/1d.jpg) 
 
 ### Multi Dimensional Array
 
-diagram
+![3D](/images/3D.jpg)
 
 ## Operations that can be performed on Array
  - Creation
