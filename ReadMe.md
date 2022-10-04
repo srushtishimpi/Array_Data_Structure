@@ -45,14 +45,14 @@ As the memory allocated at the run time for the dynamic data structures makes al
 It is more efficient and difficult to code.
 Eg. Linked List, Stack, Queue
 
-![2](/images/2.jpg)
+![2](/images/2.png)
 
 ### Non Linear Data Structure
 It is a data structure where elements are not placed in a sequntial or linear manner. In other words, A data elements of the non linear data structure could be connected to more than one elements to reflect a special relationship among them. 
 In non linear data structure, elements can not be traverse in a single run. This structure represents multi-dimensional data structures.  Non-linear data structures have more complex implementation for efficient memory utilization.
 Eg. Tree and Graph
 
-![4](/images/4.jpg)
+![4](/images/4.png)
 
 ## Application of Data Structure
 - Operating System
@@ -66,7 +66,7 @@ Eg. Tree and Graph
 # Array
 An array is a collection of items of same type stored in a contiguous memory locations. This makes easier to calculate the position of each element by simply adding an offset to a base value. Arrays represent multiple data elements of the same type using a single name. Accessing or searching an element in an array is easy by using the index number. An array can be traversed easily just by incrementing the index by 1. Arrays allocate memory in contiguous memory locations for all its data elements.
 
-diagram of array
+![1Array](/images/arr.jpg) 
 
 This is a type of static linear data structure. Each element in array is uniquely identified by their array index.
 
@@ -76,7 +76,7 @@ This is a type of static linear data structure. Each element in array is uniquel
 
 ### Multi Dimensional Array
 
-![3D](/images/3D.jpg)
+![3D](/images/3D.png)
 
 ## Operations that can be performed on Array
  - Creation
